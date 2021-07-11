@@ -1,8 +1,8 @@
 # Aquarium 🐠
 Building out a Model Aquarium, because zoos are played out. 
 
-Tools:
+## Tools:
 - TensorBoard
 
-Models:
-- Convolution Neural Network that can classify numbers.
+## Models:
+- A Convolution Neural Network that can classify numbers.
