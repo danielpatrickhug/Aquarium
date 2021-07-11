@@ -22,3 +22,4 @@
 ---
 ![GPT3-OpenAI](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cichla_ocellaris_Dvur_zoo_1.jpg/440px-Cichla_ocellaris_Dvur_zoo_1.jpg)
 #### [A self aware Peacock Bass GPT3 chatfish(OpenAI API)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/GPT3_OpenAI_Chatbot.ipynb)
+---
