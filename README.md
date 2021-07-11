@@ -2,9 +2,9 @@
 Building out a Model Aquarium, because zoos are played out. 
 
 ## Tools:
-🎣
-- TensorBoard
+![Tensorboard](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kompas_Sofia.JPG/440px-Kompas_Sofia.JPG)
+#### TensorBoard
 
 ## Models:
-![]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoldfish&psig=AOvVaw1oHt3XbJxT95izCeFhFvE9&ust=1626050392636000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDRzvLj2fECFQAAAAAdAAAAABAK")
+![ConvNet](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Katri.jpg/440px-Katri.jpg)
 #### A Convolution Neural Network that can classify numbers.(PyTorch)
