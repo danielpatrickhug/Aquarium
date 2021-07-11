@@ -1,6 +1,6 @@
 # Aquarium 🌊
-Building out a Model Aquarium, because zoos are played out. 
-###Inspiration
+```Building out a Model Aquarium, because zoos are played out.``` 
+### Inspiration
 - [PyTorch/examples](https://github.com/pytorch/examples)
 - [PyTorch-geometric/colab-notebooks](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
 - [Keras/code-examples](https://keras.io/examples/)
