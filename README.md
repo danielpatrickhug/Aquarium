@@ -20,7 +20,7 @@
 ![GCN](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Maldives_Surgeonfish%2C_Acanthurus_leucosternon.jpg/600px-Maldives_Surgeonfish%2C_Acanthurus_leucosternon.jpg)
 #### [A Graph Convolution Neural Network that can classify Scientific Paper Nodes. (PyTorch Geometric)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/GCN_NodeClassification.ipynb)
 ---
-![GPT-Neo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Thunnus_alalunga_2.jpg/240px-Thunnus_alalunga_2.jpg)
+![GPT-Neo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pacific_bluefin_tuna.jpg/240px-Pacific_bluefin_tuna.jpg)
 #### [A Stacked Decoder GPT-Neo Model trained to generate text(TensorFlow Mesh)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/GPTNeo_and_Chill.ipynb)
 ---
 ![GPT3-OpenAI](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cichla_ocellaris_Dvur_zoo_1.jpg/440px-Cichla_ocellaris_Dvur_zoo_1.jpg)
