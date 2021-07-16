@@ -14,6 +14,9 @@
 ![ConvNet](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Katri.jpg/440px-Katri.jpg)
 #### [A Small Convolution Neural Network that can classify numbers.(PyTorch)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/MNIST_CNN.ipynb)
 ---
+![VAE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Squid_colors_2.jpg/440px-Squid_colors_2.jpg)
+#### [A Variational AutoEncoder trained on MNIST.(PyTorch)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/VAE_MNIST.ipynb)
+---
 ![GCN](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Maldives_Surgeonfish%2C_Acanthurus_leucosternon.jpg/600px-Maldives_Surgeonfish%2C_Acanthurus_leucosternon.jpg)
 #### [A Graph Convolution Neural Network that can classify Scientific Paper Nodes. (PyTorch Geometric)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/GCN_NodeClassification.ipynb)
 ---
