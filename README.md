@@ -17,6 +17,9 @@
 ![VAE](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Squid_colors_2.jpg/440px-Squid_colors_2.jpg)
 #### [A Variational AutoEncoder trained on MNIST.(PyTorch)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/VAE_MNIST.ipynb)
 ---
+![Knowledge Distillation](https://www.leisurepro.com/blog/wp-content/uploads/2011/08/shutterstock_30235408.jpg)
+#### [Teacher & Student Models that use Knowledge Distillation to train the smaller student model using a larger teacher model.(PyTorch)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/Knowledge_Distilliation_MNIST.ipynb)
+---
 ![GCN](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Maldives_Surgeonfish%2C_Acanthurus_leucosternon.jpg/600px-Maldives_Surgeonfish%2C_Acanthurus_leucosternon.jpg)
 #### [A Graph Convolution Neural Network that can classify Scientific Paper Nodes. (PyTorch Geometric)](https://github.com/danielpatrickhug/Aquarium/blob/main/models/GCN_NodeClassification.ipynb)
 ---
