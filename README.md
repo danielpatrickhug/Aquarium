@@ -1,5 +1,7 @@
 # Aquarium 🌊
 ```Building out a Model Aquarium, because zoos are played out.``` 
+
+```Collecting Recipes for the sushi shop I'm going to open up```
 ### Inspiration
 - [PyTorch/examples](https://github.com/pytorch/examples)
 - [PyTorch-geometric/colab-notebooks](https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html)
